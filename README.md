@@ -2,6 +2,12 @@
 
 競合URLを入力すると、サイト/SNSを分析して週次レポートを自動配信するツール。
 
+## 🚀 クイックデプロイ
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/postcabinets-jp/competitive-analysis-tool)
+
+詳しい手順は [DEPLOYMENT.md](./DEPLOYMENT.md) を参照してください。
+
 ## 🎯 プロジェクト概要
 
 **ターゲット:** マーケター向けSaaS  

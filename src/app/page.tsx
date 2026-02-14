@@ -11,6 +11,12 @@ export default function Home() {
             </div>
             <div className="flex gap-4">
               <Link
+                href="/demo"
+                className="text-gray-700 hover:text-gray-900"
+              >
+                デモを見る
+              </Link>
+              <Link
                 href="/auth/signin"
                 className="text-gray-700 hover:text-gray-900"
               >
@@ -38,6 +44,12 @@ export default function Home() {
             キーワード分析から詳細レポートまで、すべて自動化。
           </p>
           <div className="flex gap-4 justify-center">
+            <Link
+              href="/demo"
+              className="bg-green-600 text-white px-8 py-3 rounded-md text-lg font-semibold hover:bg-green-700"
+            >
+              デモを見る
+            </Link>
             <Link
               href="/auth/signup"
               className="bg-indigo-600 text-white px-8 py-3 rounded-md text-lg font-semibold hover:bg-indigo-700"
